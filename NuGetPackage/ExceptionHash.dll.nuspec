@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ExceptionHash.dll</id>
+    <version>1.0.0</version>
+    <authors>Rob White</authors>
+    <owners>Rob White</owners>
+    <licenseUrl>https://github.com/ilivewithian/ExceptionHash/License.txt</licenseUrl>
+    <projectUrl>https://github.com/ilivewithian/ExceptionHash</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Exception Hasher</description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags></tags>
+    <dependencies></dependencies>
+  </metadata>
+</package>
