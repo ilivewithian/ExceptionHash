@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Rob White</authors>
     <owners>Rob White</owners>
-    <licenseUrl>https://github.com/ilivewithian/ExceptionHash/License.txt</licenseUrl>
+    <licenseUrl>https://github.com/ilivewithian/ExceptionHash/blob/master/License.txt</licenseUrl>
     <projectUrl>https://github.com/ilivewithian/ExceptionHash</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Exception Hasher</description>
