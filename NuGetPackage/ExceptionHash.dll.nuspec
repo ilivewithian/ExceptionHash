@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>ExceptionHash.dll</id>
+    <id>ExceptionHash</id>
     <version>1.0.0</version>
     <authors>Rob White</authors>
     <owners>Rob White</owners>
